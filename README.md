@@ -1,7 +1,7 @@
 # My GitHub works
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hidao80&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidao80&layout=compact&theme=buefy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoi-infoport&count_private=true&show_icons=true&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi-infoport&layout=compact&theme=buefy)
 
 # My Qiita works
 
